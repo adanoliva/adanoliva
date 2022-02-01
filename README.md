@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adanoliva" alt="adanoliva" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en [Opoenhost](https://www.openhost.es/)
+- 🔭 Actualmente estoy trabajando como Frontend Developer con React en NTT Data
 
 - 🌱 Actualmente estoy aprendiendo **React en el Bootcamp Frontend de GeeksHubs Academy**
 
