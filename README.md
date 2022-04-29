@@ -1,13 +1,11 @@
 <h1 align="center">Hola 👋, soy Adán</h1>
-<h3 align="center">Un apasionado desarrollador fullstack de España.</h3>
+<h3 align="center">Un apasionado desarrollador frontender de España.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adanoliva&label=Profile%20views&color=0e75b6&style=flat" alt="adanoliva" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adanoliva" alt="adanoliva" /></a> </p>
 
 - 🔭 Actualmente estoy trabajando como Frontend Developer con React en NTT Data
-
-- 🌱 Actualmente estoy aprendiendo **React en el Bootcamp Frontend de GeeksHubs Academy**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
