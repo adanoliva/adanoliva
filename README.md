@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adanoliva" alt="adanoliva" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando como Frontend Developer con React en NTT Data
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
